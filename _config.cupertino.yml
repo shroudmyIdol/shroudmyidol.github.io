@@ -1,0 +1,13 @@
+nav:
+  title: Blog
+  items:
+    Archives: /archives
+    # Friends: /friends
+    # Projects: /projects
+    About: /about
+    GitHub: https://github.com/shroudmyIdol
+    Search: /search
+
+footer:
+  Me:
+    GitHub: https://github.com/shroudmyIdol

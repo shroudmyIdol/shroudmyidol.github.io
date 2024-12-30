@@ -59,15 +59,15 @@ nav:
   items:
     # these items will display as a link
     Archives: /archives
-    Friends: /friends
-    Projects: /projects
+    # Friends: /friends
+    # Projects: /projects
     About: /about
     # these will be automatically be an icon
     GitHub: https://github.com/MrWillCom
-    CodePen: https://codepen.io/mrwillcom
-    Patreon: https://www.patreon.com/MrWillCom
-    Mastodon: https://noc.social/@MrWillCom
-    Discord: https://discord.gg/UKuFDjcfY8
+    # CodePen: https://codepen.io/mrwillcom
+    # Patreon: https://www.patreon.com/MrWillCom
+    # Mastodon: https://noc.social/@MrWillCom
+    # Discord: https://discord.gg/UKuFDjcfY8
     Search: /search
 
 # footer items
@@ -80,27 +80,27 @@ footer:
     Tags: /tags
     Categories: /categories
     Search: /search
-    Friends: /friends
-    Projects: /projects
-    Resume: /resume
+    # Friends: /friends
+    # Projects: /projects
+    # Resume: /resume
     About: /about
-    RSS: /atom.xml
+    # RSS: /atom.xml
   # also the title
-  Projects:
+  # Projects:
     # the items
-    RSA CLI: https://github.com/MrWillCom/rsa-cli
-    Hexo Theme Cupertino: https://github.com/MrWillCom/hexo-theme-cupertino
-    A Calendar: https://github.com/MrWillCom/a-calendar
-    Auto Mirroring Bucket: https://github.com/MrWillCom/auto-mirroring-bucket
+    # RSA CLI: https://github.com/MrWillCom/rsa-cli
+    # Hexo Theme Cupertino: https://github.com/MrWillCom/hexo-theme-cupertino
+    # A Calendar: https://github.com/MrWillCom/a-calendar
+    # Auto Mirroring Bucket: https://github.com/MrWillCom/auto-mirroring-bucket
   # the title
   Me:
     # items
     GitHub: https://github.com/MrWillCom
-    CodePen: https://codepen.io/mrwillcom
-    Patreon: https://www.patreon.com/MrWillCom
-    Mastodon: https://noc.social/@MrWillCom
-    Discord: https://discord.gg/UKuFDjcfY8
-    Email: mailto:mr.will.com@outlook.com
+    # CodePen: https://codepen.io/mrwillcom
+    # Patreon: https://www.patreon.com/MrWillCom
+    # Mastodon: https://noc.social/@MrWillCom
+    # Discord: https://discord.gg/UKuFDjcfY8
+    # Email: mailto:mr.will.com@outlook.com
 
 # footer extra description
 # footer_extra_description: something will be shown at the bottom of the footer
